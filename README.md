@@ -1,2 +1,2 @@
 # AprendiendoPython
-Repositorio de ejercicios en python
+Repositorio de ejercicios en python, para mi propio aprendizaje
